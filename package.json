@@ -1,0 +1,18 @@
+{
+  "name": "capitalize-first-char",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "description": "A function to capitalize the first character on a string",
+  "homepage": "https://github.com/yamadapc/capitalize-first-char",
+  "bugs": "https://github.com/yamadapc/capitalize-first-char/issues",
+  "author": {
+    "name": "Pedro Yamada",
+    "email": "tacla.yamada@gmail.com",
+    "url": "github.com/yamadapc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yamadapc/capitalize-first-char"
+  },
+  "licenses": [{ "type": "MIT" }]
+}
